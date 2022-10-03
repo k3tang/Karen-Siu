@@ -3,7 +3,7 @@
 * 💛 I am a full-stack software engineer with a background in healthcare.
 * 🌱 I am currently learning Python.
 * 🪢 I'm looking to collaborate on open source. 
-* 🍜 I am proud of my ecommerce site clone [Instanoodles](https://instanoodles.herokuapp.com/)
+* 🍜 I am proud of my ecommerce website clone [Instanoodles](https://instanoodles.herokuapp.com/)
 * 📮 I can be reached by: [Email](mailto:karentsiu@gmail.com) or [LinkedIn](https://www.linkedin.com/in/karentsiu/)
 * 🧗🏻 Fun fact: I love rock-climbing!
 
